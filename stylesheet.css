@@ -1,0 +1,44 @@
+body {
+    background-color: indianred;
+}
+
+img {
+    border-radius: 50%;
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 50%;
+    height: 25%;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#header {
+    background-color: aqua;
+    text-align: center;
+    border-width: 3px;
+    border-style: dotted;
+    border-radius: 3px;
+}
+
+#list {
+    border-width: 5px;
+    border-style: double;
+    border-color: bisque;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#footer {
+    background-color: aqua;
+    text-align: center;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: brown;
+}
